@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiaterentian00engegoog_0008.png"; bbox 0 0 3360 5188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 2107 1118 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 2107 1118 2209">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 2107 1118 2209; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 426 2107 428 2109; x_wconf 65' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 515 2110 722 2209; x_wconf 86' lang='lat' dir='ltr'><strong>UARULO</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 743 2155 751 2172; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 772 2109 1118 2209; x_wconf 82' lang='lat' dir='ltr'><strong>SUHUNKULIU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 2327 1302 2625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 2327 1302 2625">
+     <span class='ocr_line' id='line_1_2' title="bbox 355 2327 1277 2427; baseline 0.004 -13"><span class='ocrx_word' id='word_1_5' title='bbox 355 2333 445 2416; x_wconf 82' lang='lat' dir='ltr'><strong>PER</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 461 2369 469 2386; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 486 2327 716 2427; x_wconf 77' lang='lat' dir='ltr'><strong>QUINQUE·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 731 2332 921 2418; x_wconf 81' lang='lat' dir='ltr'><strong>LUSTRA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 934 2370 942 2385; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 955 2332 1277 2426; x_wconf 78' lang='lat' dir='ltr'><strong>ANTIUUARUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 333 2537 1302 2625; baseline 0.003 -4"><span class='ocrx_word' id='word_1_11' title='bbox 333 2537 645 2621; x_wconf 78' lang='lat' dir='ltr'><strong>LITTERARUM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 666 2537 982 2623; x_wconf 81' lang='lat' dir='ltr'><strong>··PRUFUSSURI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1002 2538 1302 2625; x_wconf 82' lang='lat' dir='ltr'><strong>·AUAUUMIUU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 501 2741 1132 3037">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 501 2741 1132 3037">
+     <span class='ocr_line' id='line_1_4' title="bbox 501 2741 1132 2876; baseline 0.003 -50"><span class='ocrx_word' id='word_1_14' title='bbox 501 2741 744 2828; x_wconf 77' lang='lat' dir='ltr'><strong>AUGUSTUS</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 761 2780 768 2797; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 783 2742 1132 2876; x_wconf 76' lang='lat' dir='ltr'><strong>UNGULBRUUHT¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 606 2949 1023 3037; baseline 0.01 -5"><span class='ocrx_word' id='word_1_17' title='bbox 606 2949 1023 3037; x_wconf 80' lang='lat' dir='ltr'><strong>GRATULABUNDUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1684 5188">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1684 5188">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1684 5188; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1684 5188; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
